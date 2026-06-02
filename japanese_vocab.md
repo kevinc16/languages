@@ -10,3 +10,4 @@
 | 基本 | きほん | basics; foundation; fundamental | noun / な-adjective | 日本語の基本を勉強しています。 | Often used in compounds like 基本的 (basic/fundamental) |
 | 耐える | たえる | to endure; to withstand | る-verb | 痛みに耐えなければならない。 | Often used for pain, stress, hardship, pressure, etc. |
 | そっくり | そっくり | exactly alike; identical; entirely | adverb / な-adjective | あの二人は顔がそっくりです。 | Can also mean "entirely" as in お金をそっくり盗まれた。 |
+| 起きる | おきる | to wake up; to occur; to happen | る-verb | 毎朝七時に起きます。 | Has multiple meanings depending on context. |
