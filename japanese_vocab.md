@@ -8,3 +8,4 @@
 | 片割れ | かたわれ | one half of a pair; other half | noun | 靴の片割れをなくした。 | literary/poetic; "other half" |
 | 実際 | じっさい | in reality; actually | adverb / noun | 実際にやってみると難しい。 | contrasts expectation vs reality |
 | 基本 | きほん | basics; foundation; fundamental | noun / な-adjective | 日本語の基本を勉強しています。 | Often used in compounds like 基本的 (basic/fundamental) |
+| 耐える | たえる | to endure; to withstand | る-verb | 痛みに耐えなければならない。 | Often used for pain, stress, hardship, pressure, etc. |
