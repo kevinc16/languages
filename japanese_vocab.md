@@ -9,3 +9,4 @@
 | 実際 | じっさい | in reality; actually | adverb / noun | 実際にやってみると難しい。 | contrasts expectation vs reality |
 | 基本 | きほん | basics; foundation; fundamental | noun / な-adjective | 日本語の基本を勉強しています。 | Often used in compounds like 基本的 (basic/fundamental) |
 | 耐える | たえる | to endure; to withstand | る-verb | 痛みに耐えなければならない。 | Often used for pain, stress, hardship, pressure, etc. |
+| そっくり | そっくり | exactly alike; identical; entirely | adverb / な-adjective | あの二人は顔がそっくりです。 | Can also mean "entirely" as in お金をそっくり盗まれた。 |
