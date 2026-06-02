@@ -7,3 +7,4 @@
 | 気軽に | きがるに | casually; without hesitation | adverb | 気軽に質問してください。 | Comes from 気軽 (easygoing/casual) |
 | 片割れ | かたわれ | one half of a pair; other half | noun | 靴の片割れをなくした。 | literary/poetic; "other half" |
 | 実際 | じっさい | in reality; actually | adverb / noun | 実際にやってみると難しい。 | contrasts expectation vs reality |
+| 基本 | きほん | basics; foundation; fundamental | noun / な-adjective | 日本語の基本を勉強しています。 | Often used in compounds like 基本的 (basic/fundamental) |
