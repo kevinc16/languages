@@ -12,3 +12,4 @@
 | そっくり | そっくり | exactly alike; identical; entirely | adverb / な-adjective | あの二人は顔がそっくりです。 | Can also mean "entirely" as in お金をそっくり盗まれた。 |
 | 起きる | おきる | to wake up; to occur; to happen | る-verb | 毎朝七時に起きます。 | Has multiple meanings depending on context. |
 | 起こる | おこる | to occur; to happen | う-verb | 事故が突然起こった。 | Usually used for events/incidents happening. Compare with 起きる. |
+| 配信 | はいしん | livestream; streaming; broadcast distribution | noun / する-verb | 彼は毎日ゲーム配信をしている。 | Commonly used for online streaming and livestreams. |
