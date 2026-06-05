@@ -17,3 +17,4 @@
 | 確認 | かくにん | confirmation; checking | noun / する-verb | メールを確認してください。 | Very common in business and daily conversation. |
 | テーマ | テーマ | theme; topic; subject | noun | 今日のテーマは日本文化です。 | Loanword from English "theme." |
 | 具体的 | ぐたいてき | concrete; specific | な-adjective | もっと具体的に説明してください。 | Often contrasted with 抽象的 (abstract). |
+| 例 | れい | example; instance | noun | 例を挙げて説明してください。 | Used in explanations; common in writing and speech. |
