@@ -20,3 +20,4 @@
 | 例 | れい | example; instance | noun | 例を挙げて説明してください。 | Used in explanations; common in writing and speech. |
 | 複雑 | ふくざつ | complex; complicated | な-adjective | この問題はとても複雑です。 | Often used for systems, situations, emotions, etc. |
 | 嘘つき | うそつき | liar | noun | あいつは嘘つきだ。 | Can sound harsh or accusatory depending on tone. |
+| 具合 | ぐあい | condition; state; how something is going | noun | 今日は体の具合が悪い。 | Often used for health, condition, convenience, or how things are functioning. |
