@@ -22,3 +22,4 @@
 | 嘘つき | うそつき | liar | noun | あいつは嘘つきだ。 | Can sound harsh or accusatory depending on tone. |
 | 具合 | ぐあい | condition; state; how something is going | noun | 今日は体の具合が悪い。 | Often used for health, condition, convenience, or how things are functioning. |
 | 深い | ふかい | deep | い-adjective | この話はとても深い。 | Can describe physical depth or abstract depth like emotions, meaning, or thoughts. |
+| 役に立つ | やくにたつ | to be useful; to be helpful | compound verb (う-verb) | この情報はとても役に立つ。 | Common expression meaning "useful / helpful" |
