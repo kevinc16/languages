@@ -15,3 +15,4 @@
 | 配信 | はいしん | livestream; streaming; broadcast distribution | noun / する-verb | 彼は毎日ゲーム配信をしている。 | Commonly used for online streaming and livestreams. |
 | 相手 | あいて | opponent; partner; other person | noun | 相手が強すぎた。 | Meaning changes depending on context: opponent, companion, conversation partner, etc. |
 | 確認 | かくにん | confirmation; checking | noun / する-verb | メールを確認してください。 | Very common in business and daily conversation. |
+| テーマ | テーマ | theme; topic; subject | noun | 今日のテーマは日本文化です。 | Loanword from English "theme." |
