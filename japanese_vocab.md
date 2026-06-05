@@ -10,7 +10,7 @@
 | 基本 | きほん | basics; foundation; fundamental | noun / な-adjective | 日本語の基本を勉強しています。 | Often used in compounds like 基本的 (basic/fundamental) |
 | 耐える | たえる | to endure; to withstand | る-verb | 痛みに耐えなければならない。 | Often used for pain, stress, hardship, pressure, etc. |
 | そっくり | そっくり | exactly alike; identical; entirely | adverb / な-adjective | あの二人は顔がそっくりです。 | Can also mean "entirely" as in お金をそっくり盗まれた。 |
-| 起きる | おきる | to wake up; to occur; to happen | る-verb | 毎朝七時に起きます。 | Has multiple meanings depending on context. |
+| 起きる | おきる | to wake up; to occur; to happen | ichidan verb | 毎朝七時に起きます。 | Has multiple meanings depending on context. |
 | 起こる | おこる | to occur; to happen | る-verb | 事故が突然起こった。 | Usually used for events/incidents happening. Compare with 起きる. |
 | 配信 | はいしん | livestream; streaming; broadcast distribution | noun / する-verb | 彼は毎日ゲーム配信をしている。 | Commonly used for online streaming and livestreams. |
 | 相手 | あいて | opponent; partner; other person | noun | 相手が強すぎた。 | Meaning changes depending on context: opponent, companion, conversation partner, etc. |
