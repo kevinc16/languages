@@ -19,3 +19,4 @@
 | 具体的 | ぐたいてき | concrete; specific | な-adjective | もっと具体的に説明してください。 | Often contrasted with 抽象的 (abstract). |
 | 例 | れい | example; instance | noun | 例を挙げて説明してください。 | Used in explanations; common in writing and speech. |
 | 複雑 | ふくざつ | complex; complicated | な-adjective | この問題はとても複雑です。 | Often used for systems, situations, emotions, etc. |
+| 嘘つき | うそつき | liar | noun | あいつは嘘つきだ。 | Can sound harsh or accusatory depending on tone. |
