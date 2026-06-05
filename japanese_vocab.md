@@ -14,3 +14,4 @@
 | 起こる | おこる | to occur; to happen | う-verb | 事故が突然起こった。 | Usually used for events/incidents happening. Compare with 起きる. |
 | 配信 | はいしん | livestream; streaming; broadcast distribution | noun / する-verb | 彼は毎日ゲーム配信をしている。 | Commonly used for online streaming and livestreams. |
 | 相手 | あいて | opponent; partner; other person | noun | 相手が強すぎた。 | Meaning changes depending on context: opponent, companion, conversation partner, etc. |
+| 確認 | かくにん | confirmation; checking | noun / する-verb | メールを確認してください。 | Very common in business and daily conversation. |
