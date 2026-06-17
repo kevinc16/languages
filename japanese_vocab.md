@@ -25,3 +25,4 @@
 | 役に立つ | やくにたつ | to be useful; to be helpful | compound verb (う-verb) | この情報はとても役に立つ。 | Common expression meaning "useful / helpful" |
 | 教室 | きょうしつ | classroom | noun | 教室で日本語を勉強しています。 | Can refer to a classroom or a class/course (e.g., 英会話教室). |
 | 浴衣 | ゆかた | yukata; light cotton summer kimono | noun | 夏祭りで浴衣を着ました。 | Casual traditional garment often worn at summer festivals and hot spring inns. |
+| 観察 | かんさつ | observation; to observe | noun / する-verb | 動物の行動を観察した。 | Often used in science, research, and careful observation. |
