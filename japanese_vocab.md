@@ -13,16 +13,36 @@
 | 起きる | おきる | to wake up; to occur; to happen | ichidan verb | 毎朝七時に起きます。 | Has multiple meanings depending on context. |
 | 起こる | おこる | to occur; to happen | る-verb | 事故が突然起こった。 | Usually used for events/incidents happening. Compare with 起きる. |
 | 配信 | はいしん | livestream; streaming; broadcast distribution | noun / する-verb | 彼は毎日ゲーム配信をしている。 | Commonly used for online streaming and livestreams. |
-| 相手 | あいて | opponent; partner; other person | noun | 相手が強すぎた。 | Meaning changes depending on context: opponent, companion, conversation partner, etc. |
+| 相手 | あいて | opponent; partner; other person | noun | 相手が強すぎた。 | Meaning changes depending on context. |
 | 確認 | かくにん | confirmation; checking | noun / する-verb | メールを確認してください。 | Very common in business and daily conversation. |
 | テーマ | テーマ | theme; topic; subject | noun | 今日のテーマは日本文化です。 | Loanword from English "theme." |
-| 具体的 | ぐたいてき | concrete; specific | な-adjective | もっと具体的に説明してください。 | Often contrasted with 抽象的 (abstract). |
-| 例 | れい | example; instance | noun | 例を挙げて説明してください。 | Used in explanations; common in writing and speech. |
+| 具体的 | ぐたいてき | concrete; specific | な-adjective | もっと具体的に説明してください。 | Often contrasted with 抽象的. |
+| 例 | れい | example; instance | noun | 例を挙げて説明してください。 | Used in explanations. |
 | 複雑 | ふくざつ | complex; complicated | な-adjective | この問題はとても複雑です。 | Often used for systems, situations, emotions, etc. |
-| 嘘つき | うそつき | liar | noun | あいつは嘘つきだ。 | Can sound harsh or accusatory depending on tone. |
-| 具合 | ぐあい | condition; state; how something is going | noun | 今日は体の具合が悪い。 | Often used for health, condition, convenience, or how things are functioning. |
-| 深い | ふかい | deep | い-adjective | この話はとても深い。 | Can describe physical depth or abstract depth like emotions, meaning, or thoughts. |
-| 役に立つ | やくにたつ | to be useful; to be helpful | compound verb (う-verb) | この情報はとても役に立つ。 | Common expression meaning "useful / helpful" |
-| 教室 | きょうしつ | classroom | noun | 教室で日本語を勉強しています。 | Can refer to a classroom or a class/course (e.g., 英会話教室). |
-| 浴衣 | ゆかた | yukata; light cotton summer kimono | noun | 夏祭りで浴衣を着ました。 | Casual traditional garment often worn at summer festivals and hot spring inns. |
-| 観察 | かんさつ | observation; to observe | noun / する-verb | 動物の行動を観察した。 | Often used in science, research, and careful observation. |
+| 嘘つき | うそつき | liar | noun | あいつは嘘つきだ。 | Can sound harsh depending on tone. |
+| 具合 | ぐあい | condition; state; how something is going | noun | 今日は体の具合が悪い。 | Often used for health or condition. |
+| 深い | ふかい | deep | い-adjective | この話はとても深い。 | Physical or abstract depth. |
+| 役に立つ | やくにたつ | to be useful; to be helpful | compound verb | この情報はとても役に立つ。 | Common expression. |
+| 教室 | きょうしつ | classroom | noun | 教室で日本語を勉強しています。 | Also used for courses. |
+| 浴衣 | ゆかた | yukata; light cotton summer kimono | noun | 夏祭りで浴衣を着ました。 | Casual traditional garment. |
+| 観察 | かんさつ | observation; to observe | noun / する-verb | 動物の行動を観察した。 | Careful observation. |
+| 種類 | しゅるい | variety; kind; type; category | noun | 動物園にはたくさんの種類の動物がいる。 | Common classification word. |
+| 翻訳 | ほんやく | translation | noun / する-verb | 彼女はそれを一語一語翻訳した。 | Used for translating text. |
+| 文型 | ぶんけい | sentence pattern | noun | この文型を使って文を書いてください。 | Common in language learning. |
+| 助詞 | じょし | particle | noun | 助詞の使い方を間違えました。 | Key grammar term. |
+| 副詞 | ふくし | adverb | noun | この副詞は動詞と一緒に使います。 | Grammar term. |
+| 接続詞 | せつぞくし | conjunction | noun | 接続詞を使って二つの文を繋げてください。 | Grammar term. |
+| 数詞 | すうし | numeral; quantifier | noun | 日本語には特別な数詞があります。 | Grammar term. |
+| 助数詞 | じょすうし | counter | noun | 助数詞を正しく使うのは難しいです。 | Japanese counting words. |
+| 疑問詞 | ぎもんし | interrogative word | noun | 「どこ」「なに」「いつ」などは疑問詞です。 | Question words. |
+| 目次 | もくじ | table of contents | noun | 本の目次を見て章を探した。 | Used in books. |
+| 索引 | さくいん | index | noun | この単語を索引で調べてください。 | Used in books and references. |
+| 発音 | はつおん | pronunciation | noun / する-verb | 日本語の発音は英語と違います。 | Language-learning term. |
+| 主語 | しゅご | subject | noun | この文の主語は何ですか。 | Grammar term. |
+| 述語 | じゅつご | predicate | noun | 日本語では述語が文の最後に来ます。 | Grammar term. |
+| 目的語 | もくてきご | object | noun | 目的語は主語の後に置きます。 | Grammar term. |
+| 主題 | しゅだい | topic | noun | この文章の主題は何ですか。 | Writing/grammar term. |
+| 丁寧 | ていねい | polite; courteous | noun / な-adjective | 彼はいつも丁寧に話します。 | Very common. |
+| 普通 | ふつう | normal; ordinary | noun / な-adjective | 彼の考え方は普通と違います。 | Common everyday word. |
+| 例外 | れいがい | exception | noun | この規則には例外がありません。 | Opposite of rule. |
+| 事実 | じじつ | truth; fact | noun | 事実を隠すことはできない。 | Common in formal speech. |
