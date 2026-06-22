@@ -70,3 +70,5 @@
 | 厚意 | こうい | kindness; goodwill | noun | ご厚意に感謝します。 | Thank you for your kindness. | formal polite word |
 | 占う | うらなう | to predict; to fortune-tell | う-verb | 未来を占う。 | Predict the future. | fortune telling |
 | まとも | まとも | decent; normal; serious | な-adjective | まともな仕事 | A decent job. | standard/normal state |
+| 言語 | げんご | language | noun | 言語を学ぶのは楽しいです。 | Learning languages is fun. | Common academic word |
+| 学ぶ | まなぶ | to learn; to study | ichidan verb | 日本語を学ぶ。 | I study Japanese. | More formal than 勉強する |
