@@ -73,3 +73,5 @@
 | 言語 | げんご | language | noun | 言語を学ぶのは楽しいです。 | Learning languages is fun. | Common academic word |
 | 学ぶ | まなぶ | to learn; to study | ichidan verb | 日本語を学ぶ。 | I study Japanese. | More formal than 勉強する |
 | 追加 | ついか | addition; to add | noun / する-verb | 単語を追加しました。 | I added the word. | Common in tech/business contexts |
+| 予定 | よてい | plan; schedule | noun | 明日の予定は何ですか。 | What are your plans for tomorrow? | Commonly used for plans and appointments. |
+| 行われる | おこなわれる | to be held; to take place; to be conducted | verb (passive) | コンサートは来週行われます。 | The concert will be held next week. | Passive form of 行う; used for events, meetings, ceremonies |
