@@ -6,3 +6,4 @@
 | 楽しみ | たのしみ | looking forward to; enjoyment | noun / な-adjective | 日本に行くのが楽しみです。 | I'm looking forward to going to Japan. | Often used with 「〜が楽しみです」 |
 | 気軽に | きがるに | casually; without hesitation | adverb | 気軽に質問してください。 | Please feel free to ask questions. | Comes from 気軽 (easygoing/casual) |
 | 予定 | よてい | plan; schedule | noun | 明日の予定は何ですか。 | What are your plans for tomorrow? | Commonly used for plans and appointments. |
+| 行われる | おこなわれる | to be held; to take place; to be conducted | verb (passive) | コンサートは来週行われます。 | The concert will be held next week. | Passive form of 行う; used for events, meetings, ceremonies |
