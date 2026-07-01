@@ -76,3 +76,4 @@
 | 予定 | よてい | plan; schedule | noun | 明日の予定は何ですか。 | What are your plans for tomorrow? | Commonly used for plans and appointments. |
 | 行われる | おこなわれる | to be held; to take place; to be conducted | verb (passive) | コンサートは来週行われます。 | The concert will be held next week. | Passive form of 行う; used for events, meetings, ceremonies |
 | 軽く | かるく | lightly; slightly; casually | adverb | 軽く運動しました。 | I did some light exercise. | Common adverb |
+| 興奮 | こうふん | excitement; arousal | noun / する-verb | 試合に興奮した。 | I got excited during the match. | Also used as 興奮する (to get excited). |
