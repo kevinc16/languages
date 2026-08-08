@@ -77,3 +77,5 @@
 | 行われる | おこなわれる | to be held; to take place; to be conducted | verb (passive) | コンサートは来週行われます。 | The concert will be held next week. | Passive form of 行う; used for events, meetings, ceremonies |
 | 軽く | かるく | lightly; slightly; casually | adverb | 軽く運動しました。 | I did some light exercise. | Common adverb |
 | 興奮 | こうふん | excitement; arousal | noun / する-verb | 試合に興奮した。 | I got excited during the match. | Also used as 興奮する (to get excited). |
+| 情報 | じょうほう | information | noun | インターネットで情報を集めます。 | I gather information on the internet. | Very common; used for facts, data, and useful knowledge. |
+| 手段 | しゅだん | means; method; way | noun | インターネットは情報を集める手段の一つです。 | The internet is one means of gathering information. | Refers to a method or means used to achieve a goal. |
