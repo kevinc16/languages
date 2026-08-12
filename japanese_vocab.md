@@ -79,3 +79,7 @@
 | 興奮 | こうふん | excitement; arousal | noun / する-verb | 試合に興奮した。 | I got excited during the match. | Also used as 興奮する (to get excited). |
 | 情報 | じょうほう | information | noun | インターネットで情報を集めます。 | I gather information on the internet. | Very common; used for facts, data, and useful knowledge. |
 | 手段 | しゅだん | means; method; way | noun | インターネットは情報を集める手段の一つです。 | The internet is one means of gathering information. | Refers to a method or means used to achieve a goal. |
+| 後悔 | こうかい | regret | noun / する-verb | もっと勉強すればよかったと後悔しています。 | I regret that I should have studied more. | Commonly used as 後悔する, "to regret." |
+| 表す | あらわす | to express; to represent; to show | う-verb | この言葉は感謝の気持ちを表しています。 | This word expresses a feeling of gratitude. | Often used for expressing feelings, meanings, symbols, or ideas. |
+| 否定 | ひてい | denial; negation; to deny | noun / する-verb | 彼はその話を否定しました。 | He denied that story. | Also used in grammar for negative forms, e.g. 否定形. |
+| ほぼ | ほぼ | almost; nearly; approximately | adverb | 宿題はほぼ終わりました。 | The homework is almost finished. | Very common; indicates something is nearly complete or approximately true. |
