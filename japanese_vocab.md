@@ -83,3 +83,4 @@
 | 表す | あらわす | to express; to represent; to show | う-verb | この言葉は感謝の気持ちを表しています。 | This word expresses a feeling of gratitude. | Often used for expressing feelings, meanings, symbols, or ideas. |
 | 否定 | ひてい | denial; negation; to deny | noun / する-verb | 彼はその話を否定しました。 | He denied that story. | Also used in grammar for negative forms, e.g. 否定形. |
 | ほぼ | ほぼ | almost; nearly; approximately | adverb | 宿題はほぼ終わりました。 | The homework is almost finished. | Very common; indicates something is nearly complete or approximately true. |
+| 限る | かぎる | to limit; to restrict; to be limited to | う-verb | 幸せはお金だけに限りません。 | Happiness is not limited to money alone. | Common in patterns such as 「〜に限る」 and 「〜とは限らない」. |
