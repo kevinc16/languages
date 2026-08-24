@@ -84,3 +84,4 @@
 | 否定 | ひてい | denial; negation; to deny | noun / する-verb | 彼はその話を否定しました。 | He denied that story. | Also used in grammar for negative forms, e.g. 否定形. |
 | ほぼ | ほぼ | almost; nearly; approximately | adverb | 宿題はほぼ終わりました。 | The homework is almost finished. | Very common; indicates something is nearly complete or approximately true. |
 | 限る | かぎる | to limit; to restrict; to be limited to | う-verb | 幸せはお金だけに限りません。 | Happiness is not limited to money alone. | Common in patterns such as 「〜に限る」 and 「〜とは限らない」. |
+| 比べる | くらべる | to compare | ichidan verb | 二つの商品を比べてから決めます。 | I will decide after comparing the two products. | Often used as 「AとBを比べる」 or 「AをBと比べる」. |
